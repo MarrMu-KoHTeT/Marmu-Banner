@@ -4,9 +4,7 @@
 # Termux Banner
 # Banner by MarMu
 # _____Do Not Copy Or Modify_____
--command_not_found_handle() {
-	
-}
+
 clear
 red='\e[1;31m'
 green='\e[1;32m'
