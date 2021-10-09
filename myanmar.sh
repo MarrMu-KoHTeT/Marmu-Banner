@@ -27,7 +27,8 @@ figlet -f big "     MarMu" | lolcat
 echo " "
 echo -e $red"      -----☆" $red "love you all $white"$yellow ☆-----
 echo -e $purple"           《$red T$green E$yellow R$red M$green U$yellow X$white of$green MYANMAR$purple 》"
-echo -e $yellow"        ☆☆☆" $green<====M$red=====A$yellow=====R$purple====M$white===U$blue===>"$yellow ☆☆☆""
+en U$yellow X$white of$green Z$red A$green K$yellow I$purple 》"
+echo -e $white"    《$white"L"$red"o"$green"v"$yellow"e"$white"》"$green<====Y$red=====O$yellow=====U$purple====>$green《$white"M"$red"a"$green"r"$yellow"M"$red"u"$white"》" "
 echo
 #PS1='\[\033[01;32m\]┌────\[\033[01;33m\][\[\033[01;32m\]marmu \[\033[01;31m\]@ \[\033[01;35m\]${PWD/*\//}\[\033[01;33m\]]\033[1;33m──────────────────────\033[1;30m[\T]\e[1;33m─┐\n\e[1;33m\n└>\e[1;31m # '
 PS1='\[\033[01;33m\]┌─\[\033[01;36m\]《\[\033[01;75m\]MARMU\[\033[01;31m\] @ \[\033[01;33m\]${PWD/*\//}\[\033[01;36m\]》\[\033[01;32m\]☆\[\033[01;36m\]《\[\033[01;32m\]♡.U.All\[\033[01;31m\] @ \[\033[01;32m\]\T\[\033[01;36m\]》\[\033[01;32m\]☆ \[\033[01;36m\]{\[\033[01;31m\]2021\033[01;36m\]}\[\033[01;32m\]*\[\033[01;36m\]\[\033[01;32m\]\[\033[01;35m\]
