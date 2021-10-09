@@ -4,7 +4,9 @@
 # Termux Banner
 # Banner by MarMu
 # _____Do Not Copy Or Modify_____
-
+-command_not_found_handle() {
+	/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
+}
 clear
 red='\e[1;31m'
 green='\e[1;32m'
@@ -41,3 +43,8 @@ alias c='clear'
 alias x='exit'
 alias h='help'
 alias dt='rm -rf'
+
+
+
+
+
