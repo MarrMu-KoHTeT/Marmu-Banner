@@ -1,6 +1,3 @@
-#!/bin/bash
-#
-#
 # Termux Banner
 # Banner by MarMu
 # _____Do Not Copy Or Modify_____
