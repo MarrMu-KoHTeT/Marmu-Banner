@@ -44,4 +44,5 @@ alias dt='rm -rf'
 
 
 
-
+sleep 2
+exit
