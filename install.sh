@@ -20,3 +20,11 @@ echo
 echo -e "\e[1m\e[32m Creation by :\e[33m MarMu (Myanmar)"
 echo
 cmatrix
+a
+b
+c
+d
+e
+f
+echo
+exit
